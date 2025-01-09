@@ -1,2 +1,3 @@
 # ulkeler
 Abhazya
+Afganistan
