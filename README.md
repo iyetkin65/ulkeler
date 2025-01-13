@@ -4,3 +4,4 @@ Afganistan
 Almanya
 Amerika Birleşik Devletleri
 Andorra
+Angola
