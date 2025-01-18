@@ -9,3 +9,4 @@ Antigua ve Barbuda
 Arjantin
 Arnavutluk
 Avustralya
+Avusturya
