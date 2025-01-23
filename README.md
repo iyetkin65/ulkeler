@@ -14,3 +14,4 @@ Azerbaycan
 Bahamalar
 Bahreyn
 Bangladeş
+Barbados
