@@ -15,3 +15,4 @@ Bahamalar
 Bahreyn
 Bangladeş
 Barbados
+Belçika
