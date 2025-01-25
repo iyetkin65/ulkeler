@@ -16,3 +16,4 @@ Bahreyn
 Bangladeş
 Barbados
 Belçika
+Belize
