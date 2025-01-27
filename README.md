@@ -18,3 +18,4 @@ Barbados
 Belçika
 Belize
 Benin
+Belarus
