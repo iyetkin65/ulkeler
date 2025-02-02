@@ -24,3 +24,4 @@ Birleşik Arap Emirlikleri
 Birleşik Krallık
 Bolivya
 Bosna-Hersek
+Botsvana
