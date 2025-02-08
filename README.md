@@ -30,3 +30,4 @@ Brunei
 Bulgaristan
 Burkina Faso
 Burundi
+Cezayir
