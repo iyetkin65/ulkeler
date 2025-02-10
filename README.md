@@ -32,3 +32,4 @@ Burkina Faso
 Burundi
 Cezayir
 Cibuti
+Çad
