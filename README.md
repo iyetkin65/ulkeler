@@ -33,3 +33,4 @@ Burundi
 Cezayir
 Cibuti
 Çad
+Çekya
