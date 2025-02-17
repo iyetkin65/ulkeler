@@ -39,3 +39,4 @@ Danimarka
 Doğu Timor
 Dominik Cumhuriyeti
 Dominika
+Ekvador
