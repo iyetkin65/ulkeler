@@ -46,3 +46,4 @@ Endonezya
 Eritre
 Ermenistan
 Estonya
+Esvatini
