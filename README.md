@@ -48,3 +48,4 @@ Ermenistan
 Estonya
 Esvatini
 Etiyopya
+Fas
