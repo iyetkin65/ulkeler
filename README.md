@@ -49,3 +49,4 @@ Estonya
 Esvatini
 Etiyopya
 Fas
+Fiji
