@@ -52,3 +52,4 @@ Fas
 Fiji
 Fildişi Sahili
 Filipinler
+Filistin
