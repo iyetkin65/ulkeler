@@ -56,3 +56,4 @@ Filistin
 Finlandiya
 Fransa
 Gabon
+Gambiya
