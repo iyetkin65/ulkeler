@@ -57,3 +57,4 @@ Finlandiya
 Fransa
 Gabon
 Gambiya
+Gana
