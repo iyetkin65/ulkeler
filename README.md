@@ -59,3 +59,4 @@ Gabon
 Gambiya
 Gana
 Gine
+Gine-Bissau
