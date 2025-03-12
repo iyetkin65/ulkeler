@@ -62,3 +62,4 @@ Gine
 Gine-Bissau
 Grenada
 Guyana
+Guatemala
