@@ -63,3 +63,4 @@ Gine-Bissau
 Grenada
 Guyana
 Guatemala
+Güney Afrika Cumhuriyeti
