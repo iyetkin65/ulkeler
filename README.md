@@ -64,3 +64,4 @@ Grenada
 Guyana
 Guatemala
 Güney Afrika Cumhuriyeti
+Güney Kore
