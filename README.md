@@ -66,3 +66,4 @@ Guatemala
 Güney Afrika Cumhuriyeti
 Güney Kore
 Güney Osetya
+Güney Sudan
