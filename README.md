@@ -68,3 +68,4 @@ Güney Kore
 Güney Osetya
 Güney Sudan
 Gürcistan
+Haiti
