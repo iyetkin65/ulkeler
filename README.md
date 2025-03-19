@@ -69,3 +69,4 @@ Güney Osetya
 Güney Sudan
 Gürcistan
 Haiti
+Hırvatistan
