@@ -77,3 +77,4 @@ Irak
 İran
 İrlanda
 İspanya
+İsrail
