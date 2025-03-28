@@ -78,3 +78,4 @@ Irak
 İrlanda
 İspanya
 İsrail
+İsveç
