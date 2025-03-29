@@ -79,3 +79,4 @@ Irak
 İspanya
 İsrail
 İsveç
+İsviçre
