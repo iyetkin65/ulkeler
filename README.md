@@ -82,3 +82,4 @@ Irak
 İsviçre
 İtalya
 İzlanda
+Jamaika
