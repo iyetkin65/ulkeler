@@ -84,3 +84,4 @@ Irak
 İzlanda
 Jamaika
 Japonya
+Kamboçya
