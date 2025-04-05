@@ -86,3 +86,4 @@ Jamaika
 Japonya
 Kamboçya
 Kamerun
+Kanada
