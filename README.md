@@ -89,3 +89,4 @@ Kamerun
 Kanada
 Karadağ
 Katar
+Kazakistan
