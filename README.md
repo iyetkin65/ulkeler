@@ -91,3 +91,4 @@ Karadağ
 Katar
 Kazakistan
 Kenya
+Kıbrıs Cumhuriyeti
