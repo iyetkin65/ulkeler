@@ -92,3 +92,4 @@ Katar
 Kazakistan
 Kenya
 Kıbrıs Cumhuriyeti
+Kırgızistan
