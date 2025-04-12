@@ -93,3 +93,4 @@ Kazakistan
 Kenya
 Kıbrıs Cumhuriyeti
 Kırgızistan
+Kiribati
