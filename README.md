@@ -94,3 +94,4 @@ Kenya
 Kıbrıs Cumhuriyeti
 Kırgızistan
 Kiribati
+Kolombiya
