@@ -95,3 +95,4 @@ Kıbrıs Cumhuriyeti
 Kırgızistan
 Kiribati
 Kolombiya
+Komorlar
