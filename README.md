@@ -100,3 +100,4 @@ Kongo Cumhuriyeti
 Kongo DC
 Kosova
 Kosta Rika
+Kuveyt
