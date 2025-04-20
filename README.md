@@ -101,3 +101,4 @@ Kongo DC
 Kosova
 Kosta Rika
 Kuveyt
+Kuzey Kıbrıs Türk Cumhuriyeti
