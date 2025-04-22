@@ -103,3 +103,4 @@ Kosta Rika
 Kuveyt
 Kuzey Kıbrıs Türk Cumhuriyeti
 Kuzey Kore
+Kuzey Makedonya
