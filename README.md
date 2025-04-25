@@ -106,3 +106,4 @@ Kuzey Kore
 Kuzey Makedonya
 Küba
 Laos
+Lesotho
