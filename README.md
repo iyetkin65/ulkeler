@@ -107,3 +107,4 @@ Kuzey Makedonya
 Küba
 Laos
 Lesotho
+Letonya
