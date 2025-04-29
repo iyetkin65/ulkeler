@@ -110,3 +110,4 @@ Lesotho
 Letonya
 Liberya
 Libya
+Lihtenştayn
