@@ -112,3 +112,4 @@ Liberya
 Libya
 Lihtenştayn
 Litvanya
+Lübnan
