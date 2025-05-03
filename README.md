@@ -114,3 +114,4 @@ Lihtenştayn
 Litvanya
 Lübnan
 Lüksemburg
+Macaristan
