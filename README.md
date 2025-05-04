@@ -115,3 +115,4 @@ Litvanya
 Lübnan
 Lüksemburg
 Macaristan
+Madagaskar
