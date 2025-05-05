@@ -116,3 +116,4 @@ Lübnan
 Lüksemburg
 Macaristan
 Madagaskar
+Malavi
