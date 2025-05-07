@@ -118,3 +118,4 @@ Macaristan
 Madagaskar
 Malavi
 Maldivler
+Malezya
