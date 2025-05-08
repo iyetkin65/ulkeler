@@ -119,3 +119,4 @@ Madagaskar
 Malavi
 Maldivler
 Malezya
+Mali
