@@ -120,3 +120,4 @@ Malavi
 Maldivler
 Malezya
 Mali
+Malta
