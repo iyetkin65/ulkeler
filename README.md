@@ -122,3 +122,4 @@ Malezya
 Mali
 Malta
 Marshall Adaları
+Mauritius
