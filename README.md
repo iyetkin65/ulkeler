@@ -125,3 +125,4 @@ Marshall Adaları
 Mauritius
 Meksika
 Mısır
+Mikronezya Federal Devletleri
