@@ -129,3 +129,4 @@ Mikronezya Federal Devletleri
 Moğolistan
 Moldova
 Monako
+Moritanya
