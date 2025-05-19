@@ -130,3 +130,4 @@ Moğolistan
 Moldova
 Monako
 Moritanya
+Mozambik
