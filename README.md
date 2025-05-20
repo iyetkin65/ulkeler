@@ -131,3 +131,4 @@ Moldova
 Monako
 Moritanya
 Mozambik
+Myanmar
