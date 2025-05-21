@@ -132,3 +132,4 @@ Monako
 Moritanya
 Mozambik
 Myanmar
+Namibya
