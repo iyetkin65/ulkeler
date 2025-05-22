@@ -133,3 +133,4 @@ Moritanya
 Mozambik
 Myanmar
 Namibya
+Nauru
