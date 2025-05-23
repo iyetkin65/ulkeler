@@ -134,3 +134,4 @@ Mozambik
 Myanmar
 Namibya
 Nauru
+Nepal
