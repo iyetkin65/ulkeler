@@ -135,3 +135,17 @@ Myanmar
 Namibya
 Nauru
 Nepal
+Nikaragua
+Nijer
+Nijerya
+Norveç
+Orta Afrika Cumhuriyeti
+Özbekistan
+Pakistan
+Palau
+Panama
+Papua Yeni Gine
+Paraguay
+Peru
+Polonya
+Portekiz
