@@ -149,3 +149,6 @@ Paraguay
 Peru
 Polonya
 Portekiz
+Romanya
+Ruanda
+Rusya
