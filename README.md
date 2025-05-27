@@ -153,3 +153,5 @@ Romanya
 Ruanda
 Rusya
 Sahra Demokratik Arap Cumhuriyeti
+Saint Kitts ve Nevis
+Saint Lucia
