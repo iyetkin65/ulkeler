@@ -155,3 +155,22 @@ Rusya
 Sahra Demokratik Arap Cumhuriyeti
 Saint Kitts ve Nevis
 Saint Lucia
+Saint Vincent ve Grenadinler
+Samoa
+San Marino
+São Tomé ve Príncipe
+Senegal
+Seyşeller
+Sırbistan
+Sierra Leone
+Singapur
+Slovakya
+Slovenya
+Solomon Adaları
+Somali
+Somaliland
+Sri Lanka
+Sudan
+Surinam
+Suriye
+Suudi Arabistan
