@@ -175,3 +175,13 @@ Surinam
 Suriye
 Suudi Arabistan
 Şili
+Tacikistan
+Tanzanya
+Tayland
+Tayvan
+Togo
+Tonga
+Transdinyester
+Trinidad ve Tobago
+Tunus
+Tuvalu
