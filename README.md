@@ -186,3 +186,4 @@ Trinidad ve Tobago
 Tunus
 Tuvalu
 Türkiye
+Türkmenistan
