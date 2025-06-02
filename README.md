@@ -187,3 +187,7 @@ Tunus
 Tuvalu
 Türkiye
 Türkmenistan
+Uganda
+Ukrayna
+Umman
+Uruguay
