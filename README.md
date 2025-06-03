@@ -191,3 +191,14 @@ Uganda
 Ukrayna
 Umman
 Uruguay
+Ürdün
+Vanuatu
+Vatikan
+Venezuela
+Vietnam
+Yemen
+Yeni Zelanda
+Yeşil Burun Adaları
+Yunanistan
+Zambiya
+Zimbabve
